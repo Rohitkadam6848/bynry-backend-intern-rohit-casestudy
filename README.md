@@ -1,7 +1,7 @@
 # Bynry Backend Intern - Case Study Solution
 
 **Name:** Rohit Bhanudas kadam 
-**Email:** rohitkadam1230@gmail.com  
+**Email:**rohitkadam1230@gmail.com  
 **Date:** 8 April 2026  
 
 ---
